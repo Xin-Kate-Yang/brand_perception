@@ -10,12 +10,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		  {image : ‘a1.png'}, 
+    		    {image : ‘a1.png'}, 
     			{image : ‘a2.png'}, 
     			{image : ‘a3.png'}, 
     			{image : ‘a4.png'}, 
     			{image : ‘a5.png'}, 
-    		  {image : ‘a6.png'}, 
+    		    {image : ‘a6.png'}, 
     			{image : ‘a7.png'}, 
     			{image : ‘a8.png'}, 
     			{image : ‘a9.png'}, 
@@ -34,12 +34,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		  {image : ‘p1.png'}, 
+    		    {image : ‘p1.png'}, 
     			{image : ‘p2.png'}, 
     			{image : ‘p3.png'}, 
     			{image : ‘p4.png'}, 
     			{image : ‘p5.png'}, 
-    		  {image : ‘p6.png'}, 
+    		    {image : ‘p6.png'}, 
     			{image : ‘p7.png'}, 
     			{image : ‘p8.png'}, 
     			{image : ‘p9.png'}, 
@@ -51,7 +51,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://xin-kate-yang.github.io/brand_perception/images/'
+			image : 'https://baranan.github.io/minno-tasks/images/'
 		} 
 	});
 });
