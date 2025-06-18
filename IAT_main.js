@@ -51,7 +51,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://github.com/Xin-Kate-Yang/brand_perception/tree/main/images/'
+			image : 'https://xin-kate-yang.github.io/brand_perception/images/'
 		} 
 	});
 });
